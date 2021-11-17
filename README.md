@@ -1,1 +1,0 @@
-# smartPortraits.github.io
