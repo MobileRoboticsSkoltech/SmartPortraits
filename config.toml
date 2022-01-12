@@ -65,10 +65,7 @@ description = "Our dataset provides smartphone data (video and IMU) precisely sy
 enable  = true
 topTitle= "Request data"
 title   = "Contact Us"
-subtitle= "Or not"
-mapLatitude = "-84.260945"
-mapLongitude= "45.145059"
-mapMarker   = "images/marker.png"
+subtitle= "Email to avatar.dataset@gmail.com to get data"
 
 # Call to Action Section on About Page
 [Languages.en.params.cta]
