@@ -16,10 +16,10 @@
             <div class="row justify-content-center">
                 {{ range .member }}
                     {{ "<!-- statistics member -->" | safeHTML }}
-                    <div class="col-12 col-md-3 col-sm-6">
-                        <div class="statistics-member text-center">
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="service-block color-bg text-center">
                             <div class="member-photo">
-                                <img class="img-fluid" src="{{.image | absURL }}" alt="statistics people">
+                                <img class="img-fluid" src="{{.image | absURL }}" alt="statistics people" style="width: 70%; height: 70%">
                             </div>
                             {{ "<!-- member name & designation -->" | safeHTML }}
                             <div class="member-content">
