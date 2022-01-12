@@ -87,11 +87,7 @@ name    = "dataset"
 url     = "dataset"
 weight  = 3
 [[menu.nav]]
-name    = "about"
-url     = "about"
-weight  = 4
-[[menu.nav]]
 name    = "download"
 url     = "download"
-weight  = 5
+weight  = 4
 
