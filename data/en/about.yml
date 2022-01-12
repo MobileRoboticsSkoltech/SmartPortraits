@@ -5,10 +5,3 @@ item    :
     title : Bandeja platform
     description : >
     filename : bandeja_descr.html
-
-  - positionRight : true
-    image : images/hardware/Recording.png
-    title : Recording process
-    description : 
-    filename : bandeja_desasdcr.html
-
