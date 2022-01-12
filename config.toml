@@ -30,11 +30,11 @@ languageCode = "en-us"
 title = ""
 dateFormat = "January 2, 2006"
 home = "Home"
-logo = ""
+logo = "images/logo.png"
 menufixed = false
 
-footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
-footerAboutTitle = "About"
+footerDescription = ""
+footerAboutTitle = ""
 
 footerLocationDescription = ""
 footerLocationTitle = ""
@@ -49,7 +49,7 @@ expire_days = 2
 [Languages.en.params.hero]
 enable  = true
 heading = "SmartPortraits"
-description = "Depth Powered Handheld Smartphone Dataset of HumanPortraits for State Estimation, Reconstruction and Synthesis"
+description = "Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis"
 button  = true
 btnText = "Download"
 btnURL  = "download"
@@ -57,8 +57,8 @@ btnURL  = "download"
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
-title   = "Fill the gap in realistic avatar rendering and 3D reconstruction"
-description = "Our dataset provides smartphone data (video and IMU) precisely synchronized with depth captured on Azure Kinect sensor as source of ground truth information for tasks of 3D reconstruction, rendering and single-shot depth estimation. Recordings were performed with blinking flash for possible usage in re-lightning tasks. Within the dataset, we deliver high-quality trajectories of the smartphone and segmentation masks for human avatars."
+title   = "Fill the gap in realistic human rendering and 3D reconstruction"
+description = "Our dataset provides smartphone data (video and IMU) precisely synchronized with depth captured on Azure Kinect DK sensor as the source of ground truth information for 3D reconstruction, rendering, and single-shot depth estimation tasks. Recordings were performed with blinking flash for possible usage in re-lighting tasks. Within the dataset, we deliver high-quality trajectories of the smartphone and segmentation masks for human avatars."
 
 # Contact Section
 [Languages.en.params.contact]
