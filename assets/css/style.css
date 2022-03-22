@@ -42,12 +42,13 @@ body {
 
 
 .videoContainer .block h2 {
-  font-size: 48px;
+  font-size: 64px;
   margin-bottom: 20px;
 }
 
 .videoContainer .block p {
   color: #fff;
+  font-size: 32px;
   margin-bottom: 20px;
 }
 
@@ -154,15 +155,16 @@ a:focus, a:hover {
   /*background-color: #8888ee;*/
   background-color: #3f3f9c;
   /*background-image: linear-gradient(100deg, #f9643d, #fe2a77);*/
-  background-image: linear-gradient(100deg, #31459c, #2f396d);
+  /*background-image: linear-gradient(100deg, #31459c, #2f396d);*/
   color: #fff;
   display: inline-block;
-  font-size: 14px;
+  font-size: 16px;
+  /*font-weight: bold;*/
   letter-spacing: 1px;
   padding: 10px 40px;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   border: 1px solid transparent;
-  border-radius: 2px;
+  border-radius: 4px;
   border-color: #FFF
 }
 
@@ -432,7 +434,7 @@ a:focus, a:hover {
 }
 
 .title h2 {
-  font-size: 35px;
+  font-size: 32px;
   color: #232323;
   text-transform: capitalize;
   margin-bottom: 8px;
@@ -440,7 +442,7 @@ a:focus, a:hover {
 }
 
 .title h4 {
-  font-size: 10px;
+  font-size: 24px;
   line-height: 10px;
   font-weight: 700;
   letter-spacing: 3.3px;
@@ -611,7 +613,7 @@ a:focus, a:hover {
 
 .navigation .navbar-nav > li > .nav-link {
   color: #b6b8bb;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 26px;
   padding: 20px 15px !important;
   transition: .2s ease-in-out 0s;
@@ -859,6 +861,7 @@ overflow: auto;
 
 .about p {
   line-height: 1.6;
+  font-size: 16px;
   margin-top: 20px;
 }
 
@@ -894,6 +897,10 @@ overflow: auto;
   background-color: #ffa535;
   /*background-image: linear-gradient(100deg, #f9643d, #fe2a77);*/
   background-image: linear-gradient(100deg, #193197, #152982);
+}
+
+.about-2 p {
+  font-size: 20px;
 }
 
 @media (max-width: 768px) {

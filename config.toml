@@ -53,14 +53,15 @@ enable  = true
 heading = "SmartPortraits"
 description = "Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis"
 button  = true
-btnText = "Download"
+btnText = "DOWNLOAD"
 btnURL  = "download"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
 enable  = true
 title   = "Fill the gap in realistic human rendering and 3D reconstruction"
-description = "Our dataset provides smartphone data (video and IMU) precisely synchronized with depth captured on Azure Kinect DK sensor as the source of ground truth information for 3D reconstruction, rendering, and single-shot depth estimation tasks. Recordings were performed with blinking flash for possible usage in re-lighting tasks. Within the dataset, we deliver high-quality trajectories of the smartphone and segmentation masks for human avatars."
+description = "Our dataset provides smartphone data (video and IMU) precisely synchronized with depth captured on Azure Kinect DK sensor as the source of ground truth information for 3D reconstruction, rendering, and single-shot depth estimation tasks. Recordings were performed with blinking flash for possible usage in re-lighting tasks."
+# Within the dataset, we deliver high-quality trajectories of the smartphone and segmentation masks for human avatars."
 
 # Contact Section
 [Languages.en.params.contact]
@@ -85,7 +86,11 @@ name    = "hardware"
 url     = "hardware"
 weight  = 2
 [[menu.nav]]
+name    = "software"
+url     = "software"
+weight  = 3
+[[menu.nav]]
 name    = "download"
 url     = "download"
-weight  = 3
+weight  = 4
 

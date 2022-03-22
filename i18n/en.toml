@@ -1,5 +1,7 @@
 [hardware]
-other = "Hardware"
+other = "Platform"
+[software]
+other = "Tools"
 [dataset]
 other = "Dataset"
 [about]
