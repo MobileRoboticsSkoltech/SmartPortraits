@@ -8,7 +8,9 @@ googleAnalytics = "" # your analitics ID
 
 enableGitInfo = false
 pygmentsCodeFences = true
-baseurl = "https://mobileroboticsskoltech.github.io/smartPortraits.github.io/"
+baseurl = "https://mobileroboticsskoltech.github.io/SmartPortraits/"
+RelativeURLs=true
+CanonifyURLs=true
 
 # Multilangues setup
 # Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
