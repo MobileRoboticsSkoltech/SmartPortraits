@@ -35,11 +35,11 @@ home = "Home"
 logo = "images/logo.png"
 menufixed = false
 
-footerDescription = ""
-footerAboutTitle = ""
+footerDescription = "anastasiia.kornilova@skoltech.ru"
+footerAboutTitle = "Contact"
 
-footerLocationDescription = ""
-footerLocationTitle = ""
+footerLocationDescription = "Skolkovo Institute of Science and Technology"
+footerLocationTitle = "Mobile Robotics Lab"
 
 
 # cookies

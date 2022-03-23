@@ -1,0 +1,7 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : images/teaser.svg
+    title : Get data
+    description : >
+    filename : dataset_descr.html
