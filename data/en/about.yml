@@ -1,7 +1,0 @@
-enable  : true
-item    :
-  - positionRight : false
-    image : images/hardware/bandeja-cropped.gif
-    title : Bandeja platform
-    description : >
-    filename : bandeja_descr.html
