@@ -1,0 +1,7 @@
+enable  : true
+item    :
+  - positionRight : false
+    image : images/Github.png
+    title : Dataset toolkit
+    description : >
+    filename : toolkit_descr.html
